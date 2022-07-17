@@ -4,7 +4,6 @@ import os
 budget_csvfile = os.path.join("Resources", "budget_data.csv")
 
 #Variables for 
-total_months = int
 total_profLoss = float
 profLossChange = float
 Gincrease = float
